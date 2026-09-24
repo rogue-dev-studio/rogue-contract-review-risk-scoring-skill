@@ -4,7 +4,7 @@
 
 Review contracts with clause-by-clause risk scoring, market benchmarks, negotiability ratings, and redline suggestions. Use when the user pastes an NDA, SaaS/MSA, M&A LOI, or payment agreement and wants a Contract Safety Score, CUAD-based risk breakdown, or /review as [position] analysis.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `contract-review-risk-scoring`
 
 ## Install
